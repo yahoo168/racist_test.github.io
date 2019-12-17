@@ -1,0 +1,32 @@
+.head {
+    font-size: 1.5cm;
+}
+
+.paragragh {
+    font-size: 1cm;
+}
+
+.container {
+    overflow: hidden;
+}
+
+.right {
+    float: right;
+    width: 100px;
+}
+
+.left {
+    float: left;
+    width: 100px;
+}
+
+.middle {
+    /* float: middle; */
+    widows: 100px;
+    /* margin: 0 100px; */
+}
+
+
+/* #process {
+    background-color: black;
+} */
